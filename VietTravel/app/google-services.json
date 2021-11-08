@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "120963130149",
+    "project_id": "viettravelcop",
+    "storage_bucket": "viettravelcop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120963130149:android:dcc89389c642917ca670cc",
+        "android_client_info": {
+          "package_name": "com.example.viettravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120963130149-o8s0n14210813ssqpigjvqo09qm4r9k0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.viettravel",
+            "certificate_hash": "7d2173c3560d0fe376e338067e77902082c41526"
+          }
+        },
+        {
+          "client_id": "120963130149-09rhjefm7vu85075a4eq92s65kmqi68g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJH5KKJLAu6ckeCJUA1KIagfBO_v4Wf_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120963130149-09rhjefm7vu85075a4eq92s65kmqi68g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+	Admin : Username, Password
+
+	User: Username, Password, Name, Age, SoDT, email, anh, ma ngan hang, so du tai khoan
+
+	Miền: Mamien, ten Mien
+
+	Ten Tinh: 
+
+	Dia Diem: MaDD, Ten dia diem, tinh-thanh pho, dia chi,mota, danhgia, binh luan, trang thai, anh;
+
+	Phong: maphong, ten loai phong , gia tien 1 ngay, gia tien 3 ngay, gia tien 1 tuan, gia tien 1 thang, binh luan, tinh-thanh pho, dia chi, anh.
+
+	Loaiphong: maloaiphong, ten loai phong
+
+	tour: matour, ten tour, dia diem den, dia diem xuat phat, loai tour, ngay khoi hanh, gia, trang thai, anh
+
+	loai tour: maloai, ten loai.
+
+	ngan hang: ma ngan hang, ten ngan hang
+
+	Loai thanh toan : maloai, tenloai, trang thai
+
+	hoa don: ma hoa don, ten khach hang, ngay thanh toan, thanh tien
+		Thanh toan truc tuyen: ma ngan hang, ten ngan hang, loai ngan hang, % chiec khau 
+
+	chi tiet hoa don: ten tour, ma tour, gia, so luong, ma phong, ten phong
+	
+
